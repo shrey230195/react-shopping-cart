@@ -18,7 +18,7 @@ var Product = React.createClass({
           <strong>{ this.props.product.productName }</strong>: { '$' + this.props.product.price }
         </div>
          <div className="small-5 columns">
-           <button className="small" onClick={this.addToCart}>Add to cart</button>
+           <button className="small" onClick={this.addToCart}>Add to Cart</button>
          </div>
       </div>
       );
