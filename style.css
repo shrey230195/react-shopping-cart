@@ -1,0 +1,42 @@
+
+.row{
+	
+	width: 100%;
+	
+}
+.large-6.centered.columns{
+margin:  2%;
+border: 2px solid #000;
+width: 45%;
+float: left;
+	
+}
+.small-4.columns{
+	width: 90%;
+	padding: 4%;
+	height: 60%;
+	border: 1px solid #000;
+}
+.small-5.columns{
+	width: 90%;
+	padding: 2%;
+	height: 20%;
+}
+.small{
+	width: 80px;
+	height: 40px;
+
+}
+.right{
+	padding: 2%;
+}
+h3{
+	margin-left: 40%;
+	font-weight: bold;
+	font-size: 22px;
+	font-family: sans-serif;
+}
+strong{
+	padding: 2%;
+	margin-top: 2%;
+}
